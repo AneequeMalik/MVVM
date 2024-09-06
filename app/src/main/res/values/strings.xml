@@ -4,5 +4,7 @@
     <string name="sign_up">Sign Up</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
-    <string name="login_title_text">Welcome!\nPlease sign in</string>
+    <string name="email">Email</string>">
+    <string name="title_landing_page">Welcome!\nPlease sign in</string>
+    <string name="title_sign_up">Sign Up</string>
 </resources>
